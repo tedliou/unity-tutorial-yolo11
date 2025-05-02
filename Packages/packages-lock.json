@@ -1,14 +1,14 @@
 {
   "dependencies": {
     "com.tedliou.unity-yolo11": {
-      "version": "https://github.com/tedliou/unity-module-yolo11.git#1.0.0",
+      "version": "https://github.com/tedliou/unity-module-yolo11.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "jp.keijiro.osc-jack": "2.0.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "24248cf5827211c40695906fe24f4b00b3165660"
+      "hash": "efa1ed664174d4146ca694d3ce7b0233c2ffec10"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.7",
@@ -221,11 +221,11 @@
       "url": "https://packages.unity.com"
     },
     "jp.keijiro.osc-jack": {
-      "version": "https://github.com/keijiro/OscJack.git?path=Packages/jp.keijiro.osc-jack#2.0.0",
+      "version": "https://github.com/keijiro/OscJack.git?path=Packages/jp.keijiro.osc-jack",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "383dce1c20967efdf90afd439a9dff0973704335"
+      "hash": "56d60f3100c91108bc7c2be81336a8ed31b6f3ac"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",

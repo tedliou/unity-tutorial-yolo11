@@ -580,10 +580,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trackingJoints: 00000000090000000a000000
-  invertX: 1
+  invertX: 0
   invertY: 1
   port: 5005
-  path: /yolo11
+  path: /pose
 --- !u!114 &1528916047
 MonoBehaviour:
   m_ObjectHideFlags: 0
